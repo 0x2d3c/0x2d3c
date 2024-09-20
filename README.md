@@ -5,7 +5,7 @@ Design is the art of arranging code to work today, and be changeable forever
 
 ### About
 - work with go in server side
-- expect remote part-time job
+- expect remote part-time or full-time job
 ### Skill
 <p align="left">
     <a href="https://go.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40" /> </a>
@@ -27,7 +27,7 @@ Design is the art of arranging code to work today, and be changeable forever
     </a>
     <a href="https://www.oracle.com/java/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" /> </a>
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40" /> </a>
-    <a href="https://pulsar.apache.org/" target="_blank"> <img src="https://camo.githubusercontent.com/dc752029c391301ea464dc70f98233e4a04f71a6d1220590e1d7726deb6e6189/68747470733a2f2f70756c7361722e6170616368652e6f72672f696d672f70756c7361722e737667" alt="pulsar" width="40" height="40" /> </a>
+    <a href="https://pulsar.apache.org/" target="_blank"> <img src="https://pulsar.apache.org/img/logo-black.svg" alt="pulsar" width="40" height="40" /> </a>
 </p>
 
 ### Contributed
@@ -37,4 +37,9 @@ Design is the art of arranging code to work today, and be changeable forever
     <a href="https://github.com/go-gorm/gorm"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=go-gorm&repo=gorm&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="shields"></a>
     <a href="https://github.com/uber-go/guide"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=uber-go&repo=guide&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="go"></a>
     <a href="https://github.com/AI-algorithms/project-readme"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AI-algorithms&repo=project-readme&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="repo=project-readme"></a>
+    <a href="https://github.com/celestiaorg/celestia-node"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=celestiaorg&repo=celestia-node&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="repo=celestia-node"></a>
+    <a href="https://github.com/cosmos/cosmos-sdk"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cosmos&repo=cosmos-sdk&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="repo=cosmos-sdk"></a>
+    <a href="https://github.com/Layr-Labs/eigenda"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Layr-Labs&repo=eigenda&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="repo=eigenda"></a>
+    <a href="https://github.com/ethereum/go-ethereum"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ethereum&repo=go-ethereum&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="repo=go-ethereum"></a>
+    <a href="https://github.com/ethereum/go-ethereum"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ethereum&repo=go-ethereum&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="repo=go-ethereum"></a>
   </p>
