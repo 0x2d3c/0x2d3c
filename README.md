@@ -29,16 +29,3 @@ Design is the art of arranging code to work today, and be changeable forever
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40" /> </a>
     <a href="https://pulsar.apache.org/" target="_blank"> <img src="https://pulsar.apache.org/img/logo-black.svg" alt="pulsar" width="40" height="40" /> </a>
 </p>
-
-### Contributed
-<p align="left">
-    <a href="https://github.com/golang/go"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=golang&repo=go&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="go"></a>
-    <a href="https://github.com/gin-gonic/gin"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gin-gonic&repo=gin&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="gin"></a>
-    <a href="https://github.com/go-gorm/gorm"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=go-gorm&repo=gorm&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="shields"></a>
-    <a href="https://github.com/uber-go/guide"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=uber-go&repo=guide&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="go"></a>
-    <a href="https://github.com/AI-algorithms/project-readme"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AI-algorithms&repo=project-readme&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="repo=project-readme"></a>
-    <a href="https://github.com/celestiaorg/celestia-node"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=celestiaorg&repo=celestia-node&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="repo=celestia-node"></a>
-    <a href="https://github.com/cosmos/cosmos-sdk"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cosmos&repo=cosmos-sdk&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="repo=cosmos-sdk"></a>
-    <a href="https://github.com/Layr-Labs/eigenda"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Layr-Labs&repo=eigenda&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="repo=eigenda"></a>
-    <a href="https://github.com/ethereum/go-ethereum"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ethereum&repo=go-ethereum&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="repo=go-ethereum"></a>
-  </p>
