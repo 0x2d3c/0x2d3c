@@ -1,31 +1,21 @@
-```md
-Design is the art of arranging code to work today, and be changeable forever
-```
+~~Design is the art of arranging code to work today, and be changeable forever~~
+
+AI is the art of arranging code to work today, and remain adaptable forever
+
 <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=0x2d3c&hide=stars&show_icons=true&count_private=true" />
 
-### About
-- work with go in server side
-- expect remote part-time or full-time job
-### Skill
+### ME
+- expect a nice job
+- work with AI by agent side
+
+### SSR
 <p align="left">
-    <a href="https://go.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40" /> </a>
-    <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40" /> </a>
-    <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" /> </a>
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </a>
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
-    <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" /> </a>
-    <a href="https://gitlab.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="40" height="40" /> </a>
-    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" /> </a>
-    <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> </a>
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
-    <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://www.oracle.com/java/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" /> </a>
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40" /> </a>
-    <a href="https://pulsar.apache.org/" target="_blank"> <img src="https://pulsar.apache.org/img/logo-black.svg" alt="pulsar" width="40" height="40" /> </a>
+    <a href="https://www.starknet.io/" target="_blank"> <img src="https://www.starknet.io/wp-content/uploads/2024/05/SN-Symbol-Flat-colour-150x150.png" alt="starknet" width="40" height="40" />
+    <a href="https://www.fluence.network/" target="_blank"> <img src="https://framerusercontent.com/images/HbIBl8omkmtVLXXO0w5528HY2o.png" alt="fluence" width="40" height="40" /> 
+    <a href="https://www.eigencloud.xyz/" target="_blank"> <img src="https://www.eigencloud.xyz/favicon.png" alt="eigencloud" width="40" height="40" />
+    <a href="https://availproject.org/" target="_blank"> <img src="https://framerusercontent.com/images/aDyasFKXxTWodQLSeCL1o8MeIoo.png" alt="avail" width="40" height="40" />
+    <a href="https://taiko.xyz/" target="_blank"> <img src="https://taiko.xyz/img/home-new/exp-taiko-fill.png" alt="taiko" width="40" height="40" />
+    <a href="https://fuel.network/" target="_blank"> <img src="https://framerusercontent.com/images/RV6Rixp8ycQ57ESg2TNnHRE8Meg.png" alt="fuel" width="40" height="40" />
+    <a href="https://babylonlabs.io/" target="_blank"> <img src="https://cdn.prod.website-files.com/671f8903fede075d021ba774/6746feb8b1f1d42101d6fb62_favicon.jpg" alt="babylon" width="40" height="40" />
+    <a href="https://www.succinct.xyz/" target="_blank"> <img src="https://www.succinct.xyz/icon.svg?icon.025e8kzrfk0v6.svg" alt="succinct" width="40" height="40" />
 </p>
